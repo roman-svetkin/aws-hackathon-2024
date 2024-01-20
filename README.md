@@ -1,7 +1,27 @@
-# AWS-hackathon-2024
-Use case in which users need to generate text for an ad for a specific product description (image or text) that would elicit an emotion from an ad consumer.
+# EmoAdGen
+EmoAdGen is an innovative tool designed for marketers, advertisers, and business owners who seek to create emotionally resonant advertising content with ease and precision. This tool harnesses the power of advanced language models, leveraging AWS Bedrock and open-source LLMs, to generate impactful ad texts that align with specific emotions selected by the user.
 
-# Use cases
+Key Features:
+
+1. **Emotion-Driven Customization:** Users can select an emotion from a comprehensive dropdown menu, ensuring that the ad text resonates with the desired emotional appeal.
+
+2. **Flexible Input Options:** EmoAdGen accommodates diverse product descriptions, allowing users to input information either through text or by uploading an image.
+
+3. **User-Friendly Interface:** Designed with simplicity in mind, the tool offers a straightforward and intuitive UI, making it accessible for users with varying levels of technical expertise.
+
+4. **Interactive Feedback System:** Users can rate and provide feedback on the generated ad texts, contributing to the continuous learning and improvement of the tool.
+
+5. **Real-Time Previews and Examples:** The tool provides previews of how ad texts might look in real-world contexts and showcases examples from various emotions and products for user reference.
+
+6. **Collaborative Features:** EmoAdGen supports collaborative efforts, allowing teams to jointly work on and review ad campaigns.
+
+7. **Market Trend Analysis:** The tool integrates AI-driven analysis to suggest the most effective emotional approaches based on current market trends.
+
+8. **Direct Publishing Integration:** Users can directly publish their ads to various marketing and social media platforms, streamlining the ad creation and deployment process.
+
+EmoAdGen aims to revolutionize the way advertising content is created, making it more targeted, emotionally engaging, and effective in capturing consumer attention.
+
+## Use cases
 
 As an **engineer**, I want to:
 
