@@ -30,9 +30,12 @@ As an **engineer**, I want to:
 3. Have robust sandbox environment packaged as a self-hosted app
 4. Use AWS Bedrock to make chained calls to open-source LLMs.
 5. Implement a feedback mechanism where users can rate the generated ad text for continuous learning and improvement of the model.
-2. Ensure compatibility with different file formats for image uploads and efficient text extraction from images.
-3. Integrate analytics to track user engagement and preferences for different emotions and product types.
-4. Explore the use of AWS's scalability features to handle high volumes of requests efficiently.
+6. Ensure compatibility with different file formats for image uploads and efficient text extraction from images.
+7. Integrate analytics to track user engagement and preferences for different emotions and product types.
+8. Implement storage for LLM outputs to identify edges cases the model did not do well on to test for.
+9. Explore the use of AWS's scalability features to handle high volumes of requests efficiently.
+10. Make sure an LLM can access external APIs such as company product catalogue (product descriptions and product images) to generate ad copies without having to copy paste product descriptions.
+11. Build guardrails into the LLM to avoid prompt injections and stop inappopriate input product images and descriptions before text generation.
 
 As a **user**, I want to:
 
